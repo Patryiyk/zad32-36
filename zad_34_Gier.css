@@ -1,0 +1,8 @@
+h3 {
+ width: 300pt;
+ height:2cm;
+ padding : 20px;
+ margin-left : 300px;
+ border : 10px inset fuchsia;
+ background : rgb(119,136,144);
+ }
